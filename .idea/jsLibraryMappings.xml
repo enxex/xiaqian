@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{bootstrap, common, html5, jquery.dataTables, jquery_1_12_4, respond, select, ui04, ybj, ybj_liaisons}" />
+  </component>
+</project>
